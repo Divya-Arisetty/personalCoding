@@ -32,5 +32,30 @@ namespace HW1.Controllers
 
             return View();
         }
+
+        public ActionResult Login()
+        {
+            ViewBag.Message = "Your login page.";
+
+            return View();
+        }
+        public ActionResult Compare()
+        {
+            ViewBag.Message = "Your login page.";
+
+            return View();
+        }
+        public ActionResult SiteMap()
+        {
+            ViewBag.Message = "Your login page.";
+
+            return View();
+        }
+        public ActionResult Dashboard()
+        {
+            ViewBag.Message = "Your login page.";
+
+            return View();
+        }
     }
 }

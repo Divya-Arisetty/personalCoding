@@ -166,6 +166,11 @@
     <Content Include="Views\Report\Index.cshtml" />
     <Content Include="Views\Home\FAQ.cshtml" />
     <Content Include="Views\Report\FAQ.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
+    <Content Include="Views\Home\Compare.cshtml" />
+    <Content Include="Views\Home\Inventory.cshtml" />
+    <Content Include="Views\Home\SiteMap.cshtml" />
+    <Content Include="Views\Home\DashBoard.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
